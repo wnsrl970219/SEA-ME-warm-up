@@ -1,4 +1,9 @@
 # Software Engineering in Autonomous and Mobility Ecosystems(SEAME) at CORA
 ## NAME: JUGEE HONG
 
-![simpsons-7117371_1280](https://github.com/user-attachments/assets/0964e919-416b-45d5-b08a-dc60afe48b5a)
+
+```markdown
+1. 2025/01/14 : module00 exercise 00
+
+```
+![nasa-yZygONrUBe8-unsplash](https://github.com/user-attachments/assets/857f38aa-7954-4531-9dc5-a9677944517c)
