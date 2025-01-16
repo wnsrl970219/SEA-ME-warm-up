@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConvertToUpperLib.a CMakeFiles/ConvertToUpperLib.dir/src/ConvertToUpper.cpp.o
+/usr/bin/ranlib libConvertToUpperLib.a

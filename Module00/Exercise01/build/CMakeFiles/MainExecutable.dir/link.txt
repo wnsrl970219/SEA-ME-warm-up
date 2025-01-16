@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MainExecutable.dir/src/main.cpp.o -o MainExecutable  libConvertToUpperLib.a libConvertToLowerLib.a 

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Convert",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ConvertToLowerLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConvertToLowerLib-Debug-c0fa4fcac4582e2c0b34.json",
+					"name" : "ConvertToLowerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ConvertToUpperLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConvertToUpperLib-Debug-949356950b749c6d8cd0.json",
+					"name" : "ConvertToUpperLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MainExecutable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MainExecutable-Debug-323ac8424087e20baa6b.json",
+					"name" : "MainExecutable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jungi/SEA-ME-warm-up/Module00/Exercise01/build",
+		"source" : "/home/jungi/SEA-ME-warm-up/Module00/Exercise01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
