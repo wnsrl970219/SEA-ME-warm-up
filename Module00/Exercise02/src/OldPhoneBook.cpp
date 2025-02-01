@@ -1,5 +1,6 @@
 // PhoneBook.cpp
 #include "OldPhoneBook.hpp"
+#include "ConvertToUpper.h"
 
 using namespace std;
 
@@ -7,10 +8,12 @@ void OldPhoneBook::addContact() {
     string name, phone, nickname;
     cout << "Enter Name: ";
     cin >> name;
+    ConvertToUpper(name);
     cout << "Enter Phone Number (unique): ";
     cin >> phone;
     cout << "Enter Nickname: ";
     cin >> nickname;
+    ConvertToUpper(nickname);
 
     for (const auto& contact : contacts) {
         if (contact[1] == phone) {
